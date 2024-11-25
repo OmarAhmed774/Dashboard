@@ -74,6 +74,11 @@ ul li a:hover , .active, .data-info .box:hover , td:hover{
 ul li a i {
   font-size: 30px ;
 }
+@media (max-width:992px) {
+  ul li a i {
+    font-size: 22px ;
+  }
+}
 /* Menu */
 /* Content */
 .content {
